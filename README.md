@@ -45,43 +45,43 @@ FontFace=Arial
 ; Measure for Battery Percentage
 [MeasureBatteryPercentage]
 Measure=Plugin
-Plugin=PluginBattery
+Plugin=Battery
 MeasureType=BatteryPercentage
 
 ; Measure for Battery Status as text (e.g., High, Low, Charging, etc.)
 [MeasureBatteryStatus]
 Measure=Plugin
-Plugin=PluginBattery
+Plugin=Battery
 MeasureType=BatteryStatus
 
 ; Measure for Battery Status in Numeric form
 [MeasureBatteryStatusNumeric]
 Measure=Plugin
-Plugin=PluginBattery
+Plugin=Battery
 MeasureType=BatteryStatusNumeric
 
 ; Measure for Charge Status as text (e.g., Charging, Discharging)
 [MeasureBatteryChargeStatus]
 Measure=Plugin
-Plugin=PluginBattery
+Plugin=Battery
 MeasureType=BatteryChargeStatus
 
 ; Measure for Charge Status in Numeric form (1 if Charging, 0 otherwise)
 [MeasureBatteryChargeStatusNumeric]
 Measure=Plugin
-Plugin=PluginBattery
+Plugin=Battery
 MeasureType=BatteryChargeStatusNumeric
 
 ; Measure for Battery Name
 [MeasureBatteryName]
 Measure=Plugin
-Plugin=PluginBattery
+Plugin=Battery
 MeasureType=BatteryName
 
 ; Measure for Battery ID
 [MeasureBatteryID]
 Measure=Plugin
-Plugin=PluginBattery
+Plugin=Battery
 MeasureType=BatteryID
 
 ; Display Battery Percentage
