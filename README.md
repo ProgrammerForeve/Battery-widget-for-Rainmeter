@@ -20,7 +20,7 @@ A custom Rainmeter plugin that provides various battery-related information, suc
 - Ensure you have .NET Framework installed (the plugin requires .NET for WMI access).
 
 ### How to Install
-1. Download the latest release of the plugin from the [Releases Page](https://github.com/yourusername/yourrepo/releases) or clone this repository.
+1. Download the latest release of the plugin) or clone this repository.
 2. Compile the C# code into a DLL using Visual Studio (or use the precompiled DLL).
 3. Place the compiled `.dll` file in the `Plugins` folder of your Rainmeter installation (usually located in `Documents\Rainmeter\Plugins`).
 4. Create a Rainmeter skin that references the plugin. See the example skin configuration below for details.
@@ -186,5 +186,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 If you have any questions or suggestions, feel free to open an issue .
-```
+
 
